@@ -4,3 +4,4 @@ GItの基本を勉強します。
 .git commit
 .git rm
 .git status
+.git diff
