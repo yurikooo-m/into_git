@@ -3,3 +3,4 @@ GItの基本を勉強します。
 .git add
 .git commit
 .git rm
+.git status
